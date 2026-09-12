@@ -1,4 +1,4 @@
-# Hello! My name is Aidan Max, and I am a senior at Tufts University studying applied mathematics and quantitative economics. My passions are in statistical and financial modeling, and the projects featured here give a glimpse into what I've worked on. Sports data is a unique passion of mine as well, and I have much experience working with it.
+# Hello! My name is Aidan Max, and I am a senior at Tufts University studying applied mathematics and quantitative economics. My passions are in statistical and financial modeling, and the projects featured here give a glimpse into what I've worked on. Sports data is a unique passion of mine as well, with several projects shown below.
 
 ## Featured Projects
 ### Python Program: Football (Soccer) Match Prediction Algorithm
